@@ -15855,4 +15855,3 @@ cr.plugins_.Text = function(runtime)
 cr.getObjectRefTable = function () { return [
 	cr.plugins_.Text
 ];};
-
